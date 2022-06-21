@@ -2,9 +2,6 @@
 
     React Calculator App
 
-# Video tutorial
-
-    https://youtu.be/ZtHyhj2tQUE
 
 # Resource
 
@@ -14,6 +11,5 @@
 
     Images: https://unsplash.com/
 
-# Preview
 
-!["React Calculator App"](https://user-images.githubusercontent.com/67447840/135576359-7dae35e3-bb63-47f3-81fe-dfe7d0bc3cb3.jpg "React Calculator App")
+
